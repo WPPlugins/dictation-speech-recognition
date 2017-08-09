@@ -1,0 +1,14 @@
+/*
+	-----------------------------------------------------------------------------------
+	CSS Admin
+	-----------------------------------------------------------------------------------
+*/
+
+.dictation-panel {}
+
+.dictation-panel hr {
+	background-color: lightgray;		/* Some browsers used background color */
+	border: 0;
+	color: lightgray;					/* IE uses color */
+	height: 1px;
+}
